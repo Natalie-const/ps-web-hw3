@@ -1,0 +1,23 @@
+p{
+    font-family: Roboto;
+}   
+
+.header {
+    background-color: white;
+}
+
+.section1 {
+    background-color: #EEEFF1;
+}
+
+.section2 {
+    background-color: white;
+}
+
+.pl-64px {
+    padding-top: 112px;
+    padding-bottom: 112px;
+}
+
+
+
